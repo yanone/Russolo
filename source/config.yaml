@@ -4,7 +4,7 @@ axisOrder:
   - opsz
   - wght
 buildVariable: true
-buildStatic: false
+buildStatic: true
 buildWebfont: false
 ttDir: "../fonts/static"
 vfDir: "../fonts/variable"
