@@ -6,7 +6,8 @@ axisOrder:
 buildVariable: true
 buildStatic: true
 buildWebfont: false
-ttDir: "../fonts/static"
+ttDir: "../fonts/ttf"
+ttDir: "../fonts/otf"
 vfDir: "../fonts/variable"
 familyName: Russolo
 stat:
